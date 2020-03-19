@@ -1,4 +1,4 @@
-# Setup for CircleCI CI/CD Pipeline
+# Setup for CircleCI CI/CD Pipeline 
 
 ## Prerequisites
 - [Create an AWS account](https://portal.aws.amazon.com/gp/aws/developer/registration/).
