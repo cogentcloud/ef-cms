@@ -1,0 +1,7 @@
+organization=cogentcloud
+projectKey=efsmcshared
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.5971
+dashboardUrl=https://sonarcloud.io/dashboard?id=efsmcshared
+ceTaskId=AXDwj_l9vmpXQSnP0vIC
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXDwj_l9vmpXQSnP0vIC

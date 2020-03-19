@@ -1,0 +1,7 @@
+organization=cogentcloud
+projectKey=efcmsui
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.5971
+dashboardUrl=https://sonarcloud.io/dashboard?id=efcmsui
+ceTaskId=AXDwl3oyHaNaJCW-dh1t
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXDwl3oyHaNaJCW-dh1t
